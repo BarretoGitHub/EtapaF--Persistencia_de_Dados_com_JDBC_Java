@@ -46,7 +46,6 @@ public class JanelaXML extends JFrame {
     }
 
     private void exportarArtigos() {
-        //Completar aqui
         label.setText("Exportando...");
         buttonOK.setEnabled(false);
         TarefaBackground tarefa = new TarefaBackground(label, buttonOK, "artigos.xml");

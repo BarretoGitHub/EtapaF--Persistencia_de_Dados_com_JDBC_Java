@@ -43,5 +43,4 @@ public class LeituraXMLBackground extends SwingWorker<Instituicao, Object> {
             erro.printStackTrace();
         }
     }
-
 }
