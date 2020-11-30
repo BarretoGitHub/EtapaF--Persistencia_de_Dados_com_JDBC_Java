@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<artigos>
+    <artigo>
+        <titulo>The Middleware Muddle.</titulo>
+        <pag_inicial>86</pag_inicial>
+        <pag_final>93</pag_final>
+        <autores>
+            <autor>
+                <id>3943</id>
+                <nome>David Ritter</nome>
+            </autor>
+        </autores>
+    </artigo>
+    <artigo>
+        <titulo>The Asilomar Report on Database Research.</titulo>
+        <pag_inicial>74</pag_inicial>
+        <pag_final>80</pag_final>
+        <autores>
+            <autor>
+                <id>3784</id>
+                <nome>Sumanta Chatterjee</nome>
+            </autor>
+            <autor>
+                <id>3785</id>
+                <nome>Mehul Shah</nome>
+            </autor>
+            <autor>
+                <id>1995</id>
+                <nome>Philip A. Bernstein</nome>
+            </autor>
+        </autores>
+    </artigo>
+    <artigo>
+        <titulo>SQL: 1999, formerly known as SQL 3.</titulo>
+        <pag_inicial>131</pag_inicial>
+        <pag_final>138</pag_final>
+        <autores>
+            <autor>
+                <id>3784</id>
+                <nome>Sumanta Chatterjee</nome>
+            </autor>
+            <autor>
+                <id>3261</id>
+                <nome>Jim Melton</nome>
+            </autor>
+        </autores>
+    </artigo>
+</artigos>
+
