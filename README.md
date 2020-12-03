@@ -21,7 +21,6 @@ Objetivo: Demostrar conhecimentos intermediários em persistencia de dados aplic
 
 
 
-Entrevista: Entelgy Brasil 2020: Venha ser um Entelgeer
 
 
 Candidato: Wesley Gabriel Barreto
